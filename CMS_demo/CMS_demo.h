@@ -1,7 +1,7 @@
 
 // CMS_demo.h : PROJECT_NAME 应用程序的主头文件
 //
-
+//我改了一处 然后准备提交同步
 #pragma once
 
 #ifndef __AFXWIN_H__
